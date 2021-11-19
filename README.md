@@ -1,22 +1,11 @@
-# Welcome to HashLips 👄
+This is my fork of the Hash Lips auto NFT generation code. I have added an option to add fatigue or wear to your images to make it so some images are better quality than others. 
 
-Important: There is a new repo for this code.
+Several of the files originated from:
 [https://github.com/HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
 
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
+All of the files I generated are Python/Jupyter Notebook files
 
-To find out more please visit:
-
-[📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
-
-[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
-
-[💬 Telegram](https://t.me/hashlipsnft)
-
-[🐦 Twitter](https://twitter.com/hashlipsnft)
-
-[ℹ️ Website](https://hashlips.online/HashLips)
-
+This is the description provided by Hash Lips:
 # generative-art-opensource
 Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.
 
